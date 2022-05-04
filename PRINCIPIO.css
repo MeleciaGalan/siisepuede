@@ -1,0 +1,50 @@
+marquee{
+color:purple;
+font-size:100;
+font-family:lucida handwriting; 
+font-weight:bolder;
+text-align:center;
+}
+input
+{
+	margin-top:50px;
+	background:#66EAB1;
+	border-radius:40px;
+	box-shadow:5px 5px orange;
+	color:brown;
+	font-family:lucida handwriting; 
+	font-weight:bold;
+	width:400px;
+	height:110px;
+	font-size:40px;
+	text-align:center;
+	
+}
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+img{
+padding:140 px;
+padding-right:120;
+padding-left:160;
+}
+p{
+	color:red;
+font-size:50;
+font-family:Gabriola; 
+font-weight:bolder;
+text-align:center;
+}

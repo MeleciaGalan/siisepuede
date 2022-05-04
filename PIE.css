@@ -1,0 +1,19 @@
+.redes{
+height:0 px;
+}
+.redes h2{
+	font-family:gabriola;
+	text-align:center;
+	font-weight:bold;
+	font-size:15;
+}
+.sociales{
+	text-align:center;
+	
+}
+.sociales li{
+	display:inline-block;
+}
+.sociales a{
+	padding:15px;
+}

@@ -1,0 +1,25 @@
+li{
+font-family:arial black;
+color:brown;
+font-size:20;
+font-style:oblique;
+text-transform:capitalize;
+text-align:left;
+
+}
+p{	
+font-family:mv boli;
+color:blue;
+font-size:35;
+font-style:normal;
+text-transform:capitalize;
+text-align:left;
+	text-align:justify;
+}
+h1{
+	font-size:40;
+	font-family:bodoni mt black;
+	font-weight:bolder;
+	color:9B09DF;
+	text-decoration:underline;
+}

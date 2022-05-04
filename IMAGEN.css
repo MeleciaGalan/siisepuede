@@ -1,0 +1,32 @@
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+transform: translate(-50%, -50%);}
+p{
+font-family:algerian;
+font-size:45;
+font-style:italic;
+font-weight:bolder;
+text-align:center;
+color:032A8A;
+}
+h1{
+	font-family:century;
+font-size:30;
+font-style:oblique;
+font-weight:bold;
+text-align:center;
+}
